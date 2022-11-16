@@ -1,5 +1,8 @@
-let firstLetterOfLastName = "0";
-const lastName = "Lovelace";
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
 
-firstLetterOfLastName = lastName[0]; // Change this line
-console.log(firstLetterOfLastName);
+const wordBlanks = myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + " !";
+// Only change code above this line
+console.log(wordBlanks);
