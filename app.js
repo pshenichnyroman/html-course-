@@ -1,5 +1,5 @@
-//Hello World
-/* this is a
-multi-line comment*/
-const myStr = "\t\\SecondLine";
-console.log(myStr);
+let firstLetterOfLastName = "0";
+const lastName = "Lovelace";
+
+firstLetterOfLastName = lastName[0]; // Change this line
+console.log(firstLetterOfLastName);
