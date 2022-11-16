@@ -1,4 +1,7 @@
-const myArray = [50, 60, 70];
+// Setup
+const myArray = [18, 64, 99];
 
-const myData = myArray[0];
-console.log(myData);
+// Only change code below this line
+myArray[0] = 45
+
+console.log(myArray);
