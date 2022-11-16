@@ -1,8 +1,8 @@
 // Setup
-const myArray1 = [18, 64, 99];
+const myArray12 = [18, 64, 99];
 
 // Only change code below this line
-myArray1[0] = 45
+myArray12[0] = 45
 
 const myArray = [
     [1, 2, 3],
