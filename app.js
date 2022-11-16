@@ -1,8 +1,4 @@
-const myNoun = "dog";
-const myAdjective = "big";
-const myVerb = "ran";
-const myAdverb = "quickly";
+const myArray = [50, 60, 70];
 
-const wordBlanks = myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + " !";
-// Only change code above this line
-console.log(wordBlanks);
+const myData = myArray[0];
+console.log(myData);
